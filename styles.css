@@ -4,7 +4,7 @@
     box-sizing: border-box;
   }
   
-  /* Colors from style guide */
+  /* variables for the Colors from style guide */
   :root {
     --white: hsl(0, 0%, 100%);
     --slate-300: hsl(212, 45%, 89%);
@@ -72,7 +72,7 @@
     color: hsl(228, 45%, 44%);
   }
   
-  /* Media queries for responsiveness */
+  /* responsiveness */
   @media (max-width: 375px) {
     .qr-card {
       max-width: 290px;
