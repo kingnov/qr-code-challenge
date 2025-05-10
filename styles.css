@@ -72,13 +72,4 @@
     color: hsl(228, 45%, 44%);
   }
   
-  /* responsiveness */
-  @media (max-width: 375px) {
-    .qr-card {
-      max-width: 290px;
-    }
-    
-    h1 {
-      font-size: 1.3rem;
-    }
-  }
+ 
